@@ -1,0 +1,741 @@
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(7): warning:  #1-D: last line of file ends without a newline
+compiling stm32f10x_it.c...
+compiling misc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_cec.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=840 RO-data=336 RW-data=20 ZI-data=1636  
+FromELF: creating hex file...
+"..\Output\STM32-DEMO.axf" - 0 Errors, 1 Warning(s).
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(7): warning:  #1-D: last line of file ends without a newline
+compiling stm32f10x_it.c...
+compiling misc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_cec.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=840 RO-data=336 RW-data=20 ZI-data=1636  
+FromELF: creating hex file...
+"..\Output\STM32-DEMO.axf" - 0 Errors, 1 Warning(s).
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+* JLink Info: STM32F1xxx: Can not attach to CPU. Trying connect under reset.
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+Load "..\\Output\\STM32-DEMO.axf" 
+Set JLink Project File to "G:\github\stm32Test\User\JLinkSettings.ini"
+* JLink Info: Device "STM32F103ZE" selected (512 KB flash, 64 KB RAM).
+ 
+JLink info:
+------------
+DLL: V4.68a, compiled Apr 12 2013 13:26:50
+Firmware: J-Link V9 compiled Jan 29 2015 11:26:22
+Hardware: V9.20
+Feature(s) : GDB, RDI, FlashBP, FlashDL, JFlash 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info: FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+ 
+Target info:
+------------
+Device: STM32F103ZE
+VTarget = 3.293V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 1
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 500 kHz
+ 
+Full Chip Erase Done.
+Programming Done.
+Verify OK.
+Application running ...
+Rebuild target 'Target 1'
+compiling main.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(7): warning:  #1-D: last line of file ends without a newline
+compiling stm32f10x_it.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling misc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_adc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_bkp.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_can.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_cec.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_crc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_dac.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_dbgmcu.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_dma.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_exti.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_flash.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_fsmc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_gpio.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_i2c.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_iwdg.h(116): warning:  #12-D: parsing restarts here after previous syntax error
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_iwdg.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_pwr.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_rcc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_rtc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_sdio.h(68): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_sdio.h(484): error:  #20: identifier "SDIO_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_sdio.h(485): error:  #20: identifier "SDIO_InitTypeDef" is undefined
+compiling stm32f10x_sdio.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_spi.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_tim.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_usart.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_wwdg.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+"..\Output\STM32-DEMO.axf" - 156 Errors, 53 Warning(s).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+main.c(7): warning:  #1-D: last line of file ends without a newline
+compiling stm32f10x_it.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling misc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_adc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_bkp.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_can.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_cec.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_crc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_dac.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_dbgmcu.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_dma.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_exti.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_flash.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_fsmc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_gpio.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_i2c.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_iwdg.h(116): warning:  #12-D: parsing restarts here after previous syntax error
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_iwdg.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_pwr.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_rcc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_rtc.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_sdio.h(68): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_sdio.h(484): error:  #20: identifier "SDIO_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_sdio.h(485): error:  #20: identifier "SDIO_InitTypeDef" is undefined
+compiling stm32f10x_sdio.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_spi.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_tim.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_usart.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+compiling stm32f10x_wwdg.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+..\User\stm32f10x_conf.h(39): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(39): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_i2c.h(69): warning:  #12-D: parsing restarts here after previous syntax error
+..\FWlib\inc\stm32f10x_i2c.h(535): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\FWlib\inc\stm32f10x_i2c.h(536): error:  #20: identifier "I2C_InitTypeDef" is undefined
+..\User\stm32f10x_conf.h(43): error:  #77-D: this declaration has no storage class or type specifier
+..\User\stm32f10x_conf.h(43): error:  #65: expected a ";"
+..\FWlib\inc\stm32f10x_rtc.h(103): warning:  #12-D: parsing restarts here after previous syntax error
+"..\Output\STM32-DEMO.axf" - 156 Errors, 53 Warning(s).
+Target not created
+Rebuild target 'Target 1'
+compiling main.c...
+main.c(7): warning:  #1-D: last line of file ends without a newline
+compiling stm32f10x_it.c...
+compiling misc.c...
+compiling stm32f10x_adc.c...
+compiling stm32f10x_bkp.c...
+compiling stm32f10x_can.c...
+compiling stm32f10x_cec.c...
+compiling stm32f10x_crc.c...
+compiling stm32f10x_dac.c...
+compiling stm32f10x_dbgmcu.c...
+compiling stm32f10x_dma.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_fsmc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_i2c.c...
+compiling stm32f10x_iwdg.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_sdio.c...
+compiling stm32f10x_spi.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_wwdg.c...
+assembling startup_stm32f10x_hd.s...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=840 RO-data=336 RW-data=20 ZI-data=1636  
+FromELF: creating hex file...
+"..\Output\STM32-DEMO.axf" - 0 Errors, 1 Warning(s).
